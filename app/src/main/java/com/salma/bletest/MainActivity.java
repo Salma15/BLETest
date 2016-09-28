@@ -206,4 +206,11 @@ public class MainActivity extends AppCompatActivity
             Log.i("onCharacteristicRead", characteristic.toString());
         }
     };
+
+    public void TestIncrement() {
+        int i=0;
+        for(i=0;i<=20;i++){
+
+        }
+    }
 }
